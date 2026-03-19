@@ -1,0 +1,14 @@
+:root {
+  --color-background: #f8f8f8;
+  --color-text: #222222;
+  --color-heading: #181818;
+  --color-link: rgb(213, 55, 105);
+  --color-link-hover: rgba(213, 55, 105, 0.2);
+
+  --space-sm: 8px;
+  --space-lg: 32px;
+  --section-gap: 160px;
+
+  --font-size-base: 15px;
+  --line-height-base: 1.6;
+}

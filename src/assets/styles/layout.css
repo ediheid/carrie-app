@@ -1,0 +1,18 @@
+#app {
+  width: 100%;
+  margin: 0 auto;
+}
+
+section {
+  margin-bottom: var(--section-gap);
+}
+
+.pink {
+  color: var(--color-link);
+  text-decoration: underline;
+}
+
+.pink:hover,
+.pink:focus {
+  background-color: var(--color-link-hover);
+}
